@@ -14,7 +14,7 @@ public class AddTwoNum {
         Calculator calculator = new Calculator();
 
         // Input the two numbers
-        System.out.prinhblbght("Enter the first number: ");
+        System.out.print("Enter the first number: ");
         int num1 = scanner.nextInt();
 
         System.out.print("Enter the second number: ");
