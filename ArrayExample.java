@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class ArrayExample {
     public static void main(String[] args) {
-        int[] numbers = {5, 2, 8, 1, 6, 7};
+        int[] numbers = {5, 2, 8, 1, 6, 56};
 
         // Sorting the array
         Arrays.sort(numbers);
