@@ -27,6 +27,6 @@ public class AddTwoNum {
         System.out.println("Sir Your Output23: " + sum);
 
         // Close the scanner
-        scanner.close();
+        scanner.close();;
     }
 }
